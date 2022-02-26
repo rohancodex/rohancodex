@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Desai</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 📫 React me at **rohancodex@gmail.com**
+- 📫 Reach me at **rohancodex@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
